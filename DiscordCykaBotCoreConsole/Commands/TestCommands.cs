@@ -89,6 +89,7 @@ namespace DiscordCykaBotCoreConsole.Commands
 
 		private Task OnVoiceReceived(VoiceReceiveEventArgs e)
 		{
+			// test
 			if(e.User.Username == "neosknight")
 			{
 				ReadOnlyMemory<byte> m = e.PcmData;
