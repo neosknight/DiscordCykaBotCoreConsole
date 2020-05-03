@@ -1,0 +1,158 @@
+BeSweet Wizard v0.2 b1 (09.12.2003)
+----------------------
+
+
+
+
+About:
+------
+
+A Wizard for BeSweet.
+
+
+
+
+Requirements:
+-------------
+
+***** All BeSweet Files Must Be in a "\BeSweet" Sub Directory of the Wizard *****
+***** All Azidts  Files Must Be in a "\Azidts"  Sub Directory of the Wizard *****
+
+
+
+
+New:
+----
+
+BeSweet Wizard v0.2 b1 (09.12.2003)
+
+- Added AIFF Support.
+- Adjusted Captions of WAV Output Mode.
+
+
+
+
+History:
+--------
+
+BeSweet Wizard v0.1 (10.10.2003)
+
+- Released as Final.
+
+
+BeSweet Wizard v0.1 b22 (13.09.2003)
+
+- Output Tab (OTA) : Fixed a Cosmetic Bug.
+
+
+BeSweet Wizard v0.1 b21 (06.09.2003)
+
+- OTA (PreGain) : Added "Extract PEAK chunk" Option.
+
+
+BeSweet Wizard v0.1 b20 (03.09.2003)
+
+- General          : Added Startup Mode Options. BeSweet GUI / BeSweet Wizard (Thanks Sectie.B)
+- Output Tab (OTA) : Added "Set Delay to" CheckBox                            (Thanks Ghim)
+
+
+
+
+Thanks to:
+----------
+
+Doom9:   Wizard Concept, Ideas, Helping and Testing.
+DSPguru: BeSweet, Motivation, Most Help and Support.
+DDogg:   Helping and Testing Early Betas.
+
+
+
+
+VB Code I Use in the Wizard:
+----------------------------------------------------------------------------------------------------------------------
+
+Code:         Add a OnMoving Event to your Forms
+Author:       Andrea Tincani (webmaster@andreavb.f2s.com)
+Date:
+Link:         http://www.andreavb.f2s.com/tip050003.html
+
+----------------------------------------------------------------------------------------------------------------------
+
+Code:         Trap Windows Messages by Subclassing your Form
+Author:       TheScarms
+Date:
+Link:         http://www.thescarms.com/vbasic/subclassform.asp
+
+----------------------------------------------------------------------------------------------------------------------
+
+Module:       Flat Comboboxes (Subclassed Comboboxes for Flat Effect)
+Author:       Garrett D. Sever (aka "The Hand")
+Date:         October 28, 2002 
+Link:         http://www.elitevb.com/content/01,0074,01/01.aspx
+
+----------------------------------------------------------------------------------------------------------------------
+
+Class:        CDlgEx -- Encapsulates Windows Dialog Functions into One Class
+Author:       Arkadiy Olovyannikov
+Date:
+Link:         http://freevbcode.com/ShowCode.Asp?ID=631
+
+----------------------------------------------------------------------------------------------------------------------
+                                                                                       
+User Control: CHAMELEON BUTTON - An awesome multi-style button
+Author:       gonchuki
+Date:         November 11, 2001
+Link:         http://www.planet-source-code.com/vb/scripts/ShowCode.asp?lngWId=1&txtCodeId=28761
+
+----------------------------------------------------------------------------------------------------------------------
+
+User Control: Simple Tab control
+Author:       Michael Karathanasis
+Date:         July 2000
+Link:         http://www.freevbcode.com/ShowCode.Asp?ID=1334
+
+----------------------------------------------------------------------------------------------------------------------
+
+User Control: vbAccelerator ListView Control - Implements a ListView using the API
+Author:       Steve McMahon
+Date:         February 21, 2003
+Link:         http://www.vbaccelerator.com/home/VB/Code/Controls/ListView/article.asp
+
+Full Credits:  
+
+              Thanks in no particular order for getting this to work:
+
+              - Dan Litwin for his TreeView demonstrating a whole pile of nice tricks and techniques, particularly
+                a working and workable CustomDraw implementation
+              - Mike Gainer for demonstrating the IOLEInPlaceActiveObject code
+              - Matt Currland/Bill Storage for writing the OLEGuids TypeLib and publishing the info about it to the
+                VB world
+              - VBNet for the ListView tricks section
+              - Jeffery. M Richter for Spy++
+              - Charlie Kindel, Michael Nelson, Michael Antonio for OLEView
+              - Brad Martinez for the fantastic IShellFolderEx_TLB TypeLib
+              - Bruce McKinney for Hardcore Visual Basic, CopyMemory, ObjectFromPtr, Subclassing and Timer Assistant
+                (even if it was broken...)
+              - Brokenwood - Cricket Pitch Shiraz
+              - City Rockers - Futurism 1 & 2 compilations
+              - 2 Many DJs - As Heard on Radio Soulwax Pt II
+              - KFC
+              - Marlboro Lights
+              - Lucy C xxx
+ 
+              No thanks:
+ 
+              - Windows Common Controls MSDN documentation - seriously blows goats.
+              - MSCOMCTL.OCX - yes I know you had the source code, v. clever, but did you really have to?
+              - Western Digital. I want a want an MTBF somewhere in the high
+                trillions of years from now on please.
+
+              SteveMac, 2003, vbAccelerator.com, 3:01am.
+
+----------------------------------------------------------------------------------------------------------------------
+
+
+Enjoy :)
+
+
+Danni.

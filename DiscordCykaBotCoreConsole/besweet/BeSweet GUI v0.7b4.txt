@@ -1,0 +1,38 @@
+BeSweet GUI v0.7b4 (21.02.2003)
+==================
+
+
+0.7 b4 (21.02.2003)
+
+- BeSweet: "Big-Endian PCM" Checkbox is Unchecked by Default for .pcm/.wav File Types.
+
+- Azid: Updated -s Switch for Azid v1.9 
+
+  "-s surround"  -> "-s dpl"
+  "-s surround2" -> "-s dplii"
+
+
+- AAC/MP4: "Show Config Dialog" Option is Now Checked by Default (Thanks bond)
+- AAC/MP4: "Removed "Set Plugin Path" (Thanks bond)
+
+
+
+0.7 b3 (11.01.2003)
+
+- Changed aac's File Name Extension to ".mp4"
+
+  Thanks filewalker.
+
+
+
+0.7 b2 (20.12.2003)
+
+- Now Offering a "Big-Endian PCM CheckBox for PCM/WAVE Input File Types.
+
+Hope it's OK LigH ;)
+
+
+
+0.7 b1 (09.12.2003)
+
+- Added Support for aac/mp4 Encoding.
